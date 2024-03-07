@@ -1,7 +1,8 @@
 # 100+ Javascript Projects for Beginners by JSBeginners.com
+
 This is the entry repository for all of my projects over at, JSBeginners.com.
 
-If you want to see these projects in action, go to [100+ javascript projects for beginners](https://jsbeginners.com/javascript-projects-for-beginners/).
+If you want to see these projects in action, go to [100+ javascript projects for beginners](https://github.com/Blacklion567/100-Javascript-Projects-for-Beginners).
 
 Follow the links on the above page to see the individual project and to see the source from which the project came.
 
@@ -167,4 +168,4 @@ It's simple, but not easy.
 
 6. **Bonus:** Share your completed project on Twitter with the hashtags #JSBeginners #100DaysOfCode
 
-### Coming Later, React and Node Projects...
+### Coming Later, React and Node Projects
